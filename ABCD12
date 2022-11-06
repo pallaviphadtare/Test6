@@ -1,0 +1,6 @@
+Emailable Report
+1. Report generation is very important when you are doing the Automation Testing as well as for Manual Testing.
+2. By looking at the result, you can easily identify how many test cases are passed, failed and skipped.
+3. By looking at the report, you will come to know what the status of the project is.
+4. Selenium web driver is used for automating the web-application, but it won't generate any reports.
+5. The TestNG will generate the default report.
